@@ -1,0 +1,43 @@
+[
+
+  {
+    "location": "Toronto, Canada",
+    "date": "2019-02-15",
+    "gdesc": "sunny",
+    "temp": 31,
+    "humidity": 45,
+    "wind": 5,
+    "recommendation": "shirt",
+    "predicted": false
+  },
+  {
+    "location": "Toronto, Canada",
+    "date": "2019-02-16",
+    "gdesc": "mild",
+    "temp": 16,
+    "humidity": 34,
+    "wind": 8,
+    "recommendation": "jumper",
+    "predicted": true
+  },
+  {
+    "location": "Toronto, Canada",
+    "date": "2019-02-17",
+    "gdesc": "chilly",
+    "temp": 7,
+    "humidity": 14,
+    "wind": 22,
+    "recommendation": "coat",
+    "predicted": true
+  },
+  {
+    "location": "Toronto, Canada",
+    "date": "2019-02-18",
+    "gdesc": "mild",
+    "temp": 23,
+    "humidity": 40,
+    "wind": 3,
+    "recommendation": "t-shirt",
+    "predicted": true
+  }
+]
